@@ -22,7 +22,7 @@
  
  - [Тестовый прогон по заданию](https://github.com/Alexfoster9/web/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%20QASE.io%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%20Junior%2011%20G101%2009.17.2025.pdf)
 
- - [Решение задач для компьютера (Web)](https://drive.google.com/file/d/1oE7GAlmZhyC_-EJHfzL1B04zbuyC0YCJ/view?usp=sharing)
+ - [Перехват трафика для компьютера (Web)](https://drive.google.com/file/d/1oE7GAlmZhyC_-EJHfzL1B04zbuyC0YCJ/view?usp=sharing)
 
   
 
