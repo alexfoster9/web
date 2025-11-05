@@ -9,15 +9,15 @@
 
  ### Чек-лист
 
- - [Чек-лист для тестирования модулей: корзина, оплата, оформление заказов](https://docs.google.com/spreadsheets/d/1r0Mb8DmWPPmVbDoWE2FyoXKNxpdd3hE6zJYppv9g-Q4/edit?usp=sharing)
+ - [Чек-лист для тестирования модулей: корзина, оплата](https://docs.google.com/spreadsheets/d/1r0Mb8DmWPPmVbDoWE2FyoXKNxpdd3hE6zJYppv9g-Q4/edit?usp=sharing)
 
  ### Тест-кейсы
 
- - [Тест-кейсы для тестирования модулей: корзина, оплата, оформление заказов](https://github.com/alexfoster9/web/tree/main/Test-cases%20qa.demoshopping.ru)
+ - [Тест-кейсы для тестирования модулей: корзина, оплата](https://github.com/alexfoster9/web/tree/main/Test-cases%20qa.demoshopping.ru)
 
  ### Тестовый прогон
 
- - [Тестовый прогон из QASE.io по тестированию модулей: корзина, оплата, оформление заказов](https://github.com/alexfoster9/web/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%20QASE.io%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%20Junior%2011%20G101%2009.17.2025.pdf)
+ - [Тестовый прогон из QASE.io по тестированию модулей: корзина, оплата](https://github.com/alexfoster9/web/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%20QASE.io%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%20Junior%2011%20G101%2009.17.2025.pdf)
 
  ### Отчеты о дефекте
 
